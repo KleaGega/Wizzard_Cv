@@ -1,0 +1,22 @@
+.layout_nav{
+ 
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout_footer{
+      height: 50px;
+      background-color: black;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.active-link {
+  font-weight: bold; 
+  color: #007BFF; 
+  text-decoration: underline; 
+}
+

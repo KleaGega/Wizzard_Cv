@@ -1,0 +1,8 @@
+/* styles.css */
+.step-active {
+  color: blue; /* Ngjyra për hapin aktiv */
+}
+
+.step-completed {
+  color: green; /* Ngjyra për hapat e përfunduar */
+}

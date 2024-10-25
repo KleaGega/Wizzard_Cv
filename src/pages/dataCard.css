@@ -1,0 +1,23 @@
+
+.data-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.data-card h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.data-card p {
+  margin: 4px 0;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
